@@ -8,6 +8,7 @@
 # AS58521 - Garena Online Pte
 143.92.120.0/22
 202.81.117.0/24
+202.81.118.0/24
 # AS63199 - CDS Global Cloud
 148.153.168.0/22
 # AS21859 - Zenlayer
