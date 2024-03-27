@@ -2,6 +2,7 @@
 #IPs para conexión base
 128.1.96.21
 107.150.116.24
+107.150.116.28
 #
 # AS58521 - Garena Online Pte
 143.92.120.0/22
