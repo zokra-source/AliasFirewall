@@ -28,7 +28,7 @@
 # #############################
 154.200.145.0/24
 #
-#IPs especiíficas que están en el rango anterior
+# IPs especiíficas que están en el rango anterior
 #143.92.120.38
 #143.92.120.85
 #143.92.120.182
