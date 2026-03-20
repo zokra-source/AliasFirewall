@@ -1,0 +1,28 @@
+# Lista de DNS over Https y TLS
+
+# Quad9
+dns.quad9.net
+dns10.quad9.net
+
+# Cloudflare
+one.one.one.one
+dns.cloudflare.com
+cloudflare-dns.com
+1dot1dot1dot1.cloudflare-dns.com
+mozilla.cloudflare-dns.com
+
+# Google
+dns.google
+
+# OpenDNS
+doh.opendns.com
+dns.opendns.com
+
+# Adguard
+dns.adguard-dns.com
+family.adguard-dns.com
+dns.adguard.com
+
+# NextDNS
+firefox.dns.nextdns.io
+dns.nextdns.io
