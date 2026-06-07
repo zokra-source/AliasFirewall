@@ -33,6 +33,8 @@ dns-nyc.aaflalo.me
 # AdGuard
 dns.adguard.com
 dns-family.adguard.com
+dns.adguard-dns.com
+family.adguard-dns.com
 
 # Alekberg
 dns.alekberg.net
